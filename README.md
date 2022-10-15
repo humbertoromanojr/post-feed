@@ -64,11 +64,11 @@ Made with :heart: and lots of animation by :guitar: Humberto Junior :guitar:
 
 ## Important notice
 
-I was doing the **Post-feeds** project only in ***Javascript***, and I already had 42 commits containing all its development history, then I created the **Post-feeds-ts** project to migrate to use ***Typescript*** using the same remote repository, and with that I accidentally deleted all 42 previous commits. I come with this comment, so you don't repeat my same mistake. Do it in separate projects or together that way, which is better for others to follow.
+I was doing the `Post-feeds` project only in `Javascript`, and I already had 42 commits containing all its development history, then I created the `Post-feeds-ts` project to migrate to use `Typescript` using the same remote repository, and with that I accidentally deleted all 42 previous commits. I come with this comment, so you don't repeat my same mistake. Do it in separate projects or together that way, which is better for others to follow.
 
 #
 
-Estava fazendo o projeto **Post-feeds** somente em ***Javascript***, e já tinha 42 commits contendo toda a sua hitória de desenvolvimento, depois criei o projeto **Post-feeds-ts** para fazer a migração para usar ***Typescript*** usando o mesmo repositório remoto, e com isso eu apaguei sem querer todos os 42 commits anteriores. Venho com este comentário, para vocês não repetir o mesmo erro meu. Façam em projetos separados ou juntos dessa forma,que fica melhor para outros poderem seguir.  
+Estava fazendo o projeto `Post-feeds` somente em `Javascript`, e já tinha 42 commits contendo toda a sua hitória de desenvolvimento, depois criei o projeto `Post-feeds-ts` para fazer a migração para usar `Typescript` usando o mesmo repositório remoto, e com isso eu apaguei sem querer todos os 42 commits anteriores. Venho com este comentário, para vocês não repetir o mesmo erro meu. Façam em projetos separados ou juntos dessa forma,que fica melhor para outros poderem seguir.  
 
 
 ##
