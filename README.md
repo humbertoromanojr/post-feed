@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1mdrwAlWFCDWzHhRYEaMtfmJFns3YM623" alt="post-feeds" width="100%" border="0">
+  <img src="https://drive.google.com/uc?export=view&id=1mdrwAlWFCDWzHhRYEaMtfmJFns3YM623" alt="post-feed" width="100%" border="0">
 <br /><br />
-POST FEEDS
+POST FEED
 </h1> 
 
 > Status do Projeto: 🚧 Under construction 🚧  👷‍♂️
@@ -11,11 +11,11 @@ POST FEEDS
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
-![Badge](https://img.shields.io/github/issues/humbertoromanojr/post-feeds?logo=visual-studio-code&style=plastic&logo=appveyor)
-![Badge](https://img.shields.io/github/forks/humbertoromanojr/post-feeds)
-![Badge](https://img.shields.io/github/stars/humbertoromanojr/post-feeds)
-![Badge](https://img.shields.io/github/license/humbertoromanojr/post-feeds)
-![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fpost-feeds)
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/post-feed?logo=visual-studio-code&style=plastic&logo=appveyor)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/post-feed)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/post-feed)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/post-feed)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fpost-feed)
 
 
 ## WEB
@@ -29,7 +29,7 @@ POST FEEDS
 
 ## Instalation
 Copy project from repository
-`git clone https://github.com/humbertoromanojr/post-feeds`
+`git clone https://github.com/humbertoromanojr/post-feed`
 
 Install node_modules
 `npm install`
@@ -41,7 +41,7 @@ Start Project
 ## Demonstration
 <img 
   src="https://drive.google.com/uc?export=view&id=1NuOqu6J16ZzO-QlqPcCARIvjTJJGtV1x" width="100%" 
-  alt="post-feeds"
+  alt="post-feed"
 />
 <br>
 
@@ -60,8 +60,14 @@ GitLab: https://gitlab.com/hjrdev <br />
 Email: astronomi@gmail.com <br />
 <br />
 
-Made with :heart: and lots of animation by :guitar: JR Dev :guitar:
+Made with :heart: and lots of animation by :guitar: Humberto Junior :guitar:
 
+## Important notice
+
+Estava fazendo o projeto Post-feeds somente em Javascript, e já tinha 42 commits contendo toda a sua hitória de desenvolvimento, depois criei o projeto Post-feeds-ts para fazer a migração para usar Typescript usando o mesmo repositório remoto, e com isso eu apaguei sem querer todos os 42 commits anteriores. Venho com este comentário, para vocês não repetir o mesmo erro meu. Façam em projetos separados ou juntos dessa forma,que fica melhor para outros poderem seguir.  
+#
+
+I was doing the Post-feeds project only in Javascript, and I already had 42 commits containing all its development history, then I created the Post-feeds-ts project to migrate to use Typescript using the same remote repository, and with that I accidentally deleted all 42 previous commits. I come with this comment, so you don't repeat my same mistake. Do it in separate projects or together that way, which is better for others to follow.
 
 ##
 ##
