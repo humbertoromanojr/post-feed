@@ -4,7 +4,7 @@
 POST FEED
 </h1> 
 
-> Status do Projeto: 🚧 Under construction 🚧  👷‍♂️
+> Status do Projeto: Finished 👷‍♂️
 ##
 
 ## Shields
